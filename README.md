@@ -26,7 +26,8 @@ What things you need to install the software and how to install them:
 
 - [Node.js](https://nodejs.org/en/)
 - [NestJS CLI](https://docs.nestjs.com/cli/overview)
-- A PostgreSQL database
+- [Docker](https://docs.docker.com/engine/install/ubuntu/)
+- [docker-compose](https://docs.docker.com/compose/install/linux/)
 
 ### Installing
 
